@@ -1,0 +1,4 @@
+#!/bin/bash
+
+a= echo "my name is Deepankar"
+read $a 
